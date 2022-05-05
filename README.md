@@ -1,0 +1,1 @@
+# habitica-avatar-downloader
